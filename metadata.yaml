@@ -1,0 +1,48 @@
+_repo: '-------------------------------_28018'
+_version: 0.1.0
+alternative_title: Lucian - The Complete Works, Volume 3
+contributor:
+  translator:
+    agent_name: Kondylakes, Ioannes
+    aliases:
+    - Κονδυλάκης, Ιωάννης
+    - Kondylakis, Ioannis
+    - Kondilakis, Ioannis
+    birthdate: 1861
+    deathdate: 1920
+    gutenberg_agent_id: '33027'
+    url: http://www.gutenberg.org/2009/agents/33027
+    wikipedia: http://el.wikipedia.org/wiki/Ιωάννης_Κονδυλάκης
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lucian, of Samosata
+    aliases:
+    - Λουκιανός, ο Σαμοσατεύς
+    - Λουκιανος, ο Σαμοσατευς
+    - Λουκιανός, ὁ Σαμοσατεύς
+    - Samosata, Lucian of
+    birthdate: 120
+    deathdate: 180
+    gutenberg_agent_id: '1997'
+    url: http://www.gutenberg.org/2009/agents/1997
+    wikipedia:
+    - http://el.wikipedia.org/wiki/%CE%9B%CE%BF%CF%85%CE%BA%CE%B9%CE%B1%CE%BD%CF%8C%CF%82
+    - http://en.wikipedia.org/wiki/Lucian
+description: ''
+gutenberg_bookshelf: Precursors of Science Fiction
+gutenberg_issued: '2009-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28018'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Lucian, of Samosata -- Translations into Modern Greek'
+title: Λουκιανός - Άπαντα, Τόμος Τρίτος
+url: http://www.gutenberg.org/ebooks/28018
